@@ -1,0 +1,7 @@
+{"book": [
+    {"author": {"first Name": "Franz", "last Name": "Kafka"},
+    {"title": "Das Urteil"},
+    {"publicationYear": 1913},
+    {"hardcover": true},
+    {"keywords": ["Vater", "Sohn", "Konflikt"]}]
+  }
